@@ -1,0 +1,510 @@
+{
+    "_id" : ObjectId("5c7be52104314519192f3057"),
+    "result" : [ 
+        {
+            "SoCauDung" : "0",
+            "DiemNghe" : "5",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "1",
+            "DiemNghe" : "5",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "2",
+            "DiemNghe" : "5",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "3",
+            "DiemNghe" : "5",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "4",
+            "DiemNghe" : "5",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "5",
+            "DiemNghe" : "5",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "6",
+            "DiemNghe" : "5",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "7",
+            "DiemNghe" : "10",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "8",
+            "DiemNghe" : "15",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "9",
+            "DiemNghe" : "20",
+            "DiemDoc" : "5"
+        }, 
+        {
+            "SoCauDung" : "10",
+            "DiemNghe" : "25",
+            "DiemDoc" : "10"
+        }, 
+        {
+            "SoCauDung" : "11",
+            "DiemNghe" : "30",
+            "DiemDoc" : "15"
+        }, 
+        {
+            "SoCauDung" : "12",
+            "DiemNghe" : "35",
+            "DiemDoc" : "20"
+        }, 
+        {
+            "SoCauDung" : "13",
+            "DiemNghe" : "40",
+            "DiemDoc" : "25"
+        }, 
+        {
+            "SoCauDung" : "14",
+            "DiemNghe" : "45",
+            "DiemDoc" : "30"
+        }, 
+        {
+            "SoCauDung" : "15",
+            "DiemNghe" : "50",
+            "DiemDoc" : "35"
+        }, 
+        {
+            "SoCauDung" : "16",
+            "DiemNghe" : "55",
+            "DiemDoc" : "40"
+        }, 
+        {
+            "SoCauDung" : "17",
+            "DiemNghe" : "60",
+            "DiemDoc" : "45"
+        }, 
+        {
+            "SoCauDung" : "18",
+            "DiemNghe" : "65",
+            "DiemDoc" : "50"
+        }, 
+        {
+            "SoCauDung" : "19",
+            "DiemNghe" : "70",
+            "DiemDoc" : "55"
+        }, 
+        {
+            "SoCauDung" : "20",
+            "DiemNghe" : "75",
+            "DiemDoc" : "60"
+        }, 
+        {
+            "SoCauDung" : "21",
+            "DiemNghe" : "80",
+            "DiemDoc" : "65"
+        }, 
+        {
+            "SoCauDung" : "22",
+            "DiemNghe" : "85",
+            "DiemDoc" : "70"
+        }, 
+        {
+            "SoCauDung" : "23",
+            "DiemNghe" : "90",
+            "DiemDoc" : "75"
+        }, 
+        {
+            "SoCauDung" : "24",
+            "DiemNghe" : "95",
+            "DiemDoc" : "80"
+        }, 
+        {
+            "SoCauDung" : "25",
+            "DiemNghe" : "100",
+            "DiemDoc" : "90"
+        }, 
+        {
+            "SoCauDung" : "26",
+            "DiemNghe" : "105",
+            "DiemDoc" : "95"
+        }, 
+        {
+            "SoCauDung" : "27",
+            "DiemNghe" : "110",
+            "DiemDoc" : "100"
+        }, 
+        {
+            "SoCauDung" : "28",
+            "DiemNghe" : "115",
+            "DiemDoc" : "110"
+        }, 
+        {
+            "SoCauDung" : "29",
+            "DiemNghe" : "120",
+            "DiemDoc" : "115"
+        }, 
+        {
+            "SoCauDung" : "30",
+            "DiemNghe" : "125",
+            "DiemDoc" : "120"
+        }, 
+        {
+            "SoCauDung" : "31",
+            "DiemNghe" : "135",
+            "DiemDoc" : "125"
+        }, 
+        {
+            "SoCauDung" : "32",
+            "DiemNghe" : "140",
+            "DiemDoc" : "130"
+        }, 
+        {
+            "SoCauDung" : "33",
+            "DiemNghe" : "145",
+            "DiemDoc" : "135"
+        }, 
+        {
+            "SoCauDung" : "34",
+            "DiemNghe" : "150",
+            "DiemDoc" : "140"
+        }, 
+        {
+            "SoCauDung" : "35",
+            "DiemNghe" : "155",
+            "DiemDoc" : "145"
+        }, 
+        {
+            "SoCauDung" : "36",
+            "DiemNghe" : "160",
+            "DiemDoc" : "150"
+        }, 
+        {
+            "SoCauDung" : "37",
+            "DiemNghe" : "165",
+            "DiemDoc" : "155"
+        }, 
+        {
+            "SoCauDung" : "38",
+            "DiemNghe" : "170",
+            "DiemDoc" : "160"
+        }, 
+        {
+            "SoCauDung" : "39",
+            "DiemNghe" : "180",
+            "DiemDoc" : "170"
+        }, 
+        {
+            "SoCauDung" : "40",
+            "DiemNghe" : "185",
+            "DiemDoc" : "175"
+        }, 
+        {
+            "SoCauDung" : "41",
+            "DiemNghe" : "190",
+            "DiemDoc" : "180"
+        }, 
+        {
+            "SoCauDung" : "42",
+            "DiemNghe" : "195",
+            "DiemDoc" : "185"
+        }, 
+        {
+            "SoCauDung" : "43",
+            "DiemNghe" : "200",
+            "DiemDoc" : "195"
+        }, 
+        {
+            "SoCauDung" : "44",
+            "DiemNghe" : "210",
+            "DiemDoc" : "200"
+        }, 
+        {
+            "SoCauDung" : "45",
+            "DiemNghe" : "220",
+            "DiemDoc" : "205"
+        }, 
+        {
+            "SoCauDung" : "46",
+            "DiemNghe" : "225",
+            "DiemDoc" : "210"
+        }, 
+        {
+            "SoCauDung" : "47",
+            "DiemNghe" : "230",
+            "DiemDoc" : "220"
+        }, 
+        {
+            "SoCauDung" : "48",
+            "DiemNghe" : "235",
+            "DiemDoc" : "225"
+        }, 
+        {
+            "SoCauDung" : "49",
+            "DiemNghe" : "240",
+            "DiemDoc" : "230"
+        }, 
+        {
+            "SoCauDung" : "50",
+            "DiemNghe" : "245",
+            "DiemDoc" : "235"
+        }, 
+        {
+            "SoCauDung" : "51",
+            "DiemNghe" : "250",
+            "DiemDoc" : "240"
+        }, 
+        {
+            "SoCauDung" : "52",
+            "DiemNghe" : "255",
+            "DiemDoc" : "250"
+        }, 
+        {
+            "SoCauDung" : "53",
+            "DiemNghe" : "260",
+            "DiemDoc" : "255"
+        }, 
+        {
+            "SoCauDung" : "54",
+            "DiemNghe" : "270",
+            "DiemDoc" : "260"
+        }, 
+        {
+            "SoCauDung" : "55",
+            "DiemNghe" : "275",
+            "DiemDoc" : "270"
+        }, 
+        {
+            "SoCauDung" : "56",
+            "DiemNghe" : "280",
+            "DiemDoc" : "275"
+        }, 
+        {
+            "SoCauDung" : "57",
+            "DiemNghe" : "285",
+            "DiemDoc" : "280"
+        }, 
+        {
+            "SoCauDung" : "58",
+            "DiemNghe" : "295",
+            "DiemDoc" : "285"
+        }, 
+        {
+            "SoCauDung" : "59",
+            "DiemNghe" : "300",
+            "DiemDoc" : "290"
+        }, 
+        {
+            "SoCauDung" : "60",
+            "DiemNghe" : "305",
+            "DiemDoc" : "295"
+        }, 
+        {
+            "SoCauDung" : "61",
+            "DiemNghe" : "310",
+            "DiemDoc" : "300"
+        }, 
+        {
+            "SoCauDung" : "62",
+            "DiemNghe" : "315",
+            "DiemDoc" : "305"
+        }, 
+        {
+            "SoCauDung" : "63",
+            "DiemNghe" : "320",
+            "DiemDoc" : "310"
+        }, 
+        {
+            "SoCauDung" : "64",
+            "DiemNghe" : "325",
+            "DiemDoc" : "320"
+        }, 
+        {
+            "SoCauDung" : "65",
+            "DiemNghe" : "330",
+            "DiemDoc" : "325"
+        }, 
+        {
+            "SoCauDung" : "66",
+            "DiemNghe" : "335",
+            "DiemDoc" : "330"
+        }, 
+        {
+            "SoCauDung" : "67",
+            "DiemNghe" : "340",
+            "DiemDoc" : "335"
+        }, 
+        {
+            "SoCauDung" : "68",
+            "DiemNghe" : "345",
+            "DiemDoc" : "340"
+        }, 
+        {
+            "SoCauDung" : "69",
+            "DiemNghe" : "350",
+            "DiemDoc" : "345"
+        }, 
+        {
+            "SoCauDung" : "70",
+            "DiemNghe" : "360",
+            "DiemDoc" : "350"
+        }, 
+        {
+            "SoCauDung" : "71",
+            "DiemNghe" : "365",
+            "DiemDoc" : "355"
+        }, 
+        {
+            "SoCauDung" : "72",
+            "DiemNghe" : "370",
+            "DiemDoc" : "360"
+        }, 
+        {
+            "SoCauDung" : "73",
+            "DiemNghe" : "375",
+            "DiemDoc" : "365"
+        }, 
+        {
+            "SoCauDung" : "74",
+            "DiemNghe" : "380",
+            "DiemDoc" : "370"
+        }, 
+        {
+            "SoCauDung" : "75",
+            "DiemNghe" : "390",
+            "DiemDoc" : "375"
+        }, 
+        {
+            "SoCauDung" : "76",
+            "DiemNghe" : "395",
+            "DiemDoc" : "380"
+        }, 
+        {
+            "SoCauDung" : "77",
+            "DiemNghe" : "400",
+            "DiemDoc" : "385"
+        }, 
+        {
+            "SoCauDung" : "78",
+            "DiemNghe" : "405",
+            "DiemDoc" : "390"
+        }, 
+        {
+            "SoCauDung" : "79",
+            "DiemNghe" : "410",
+            "DiemDoc" : "395"
+        }, 
+        {
+            "SoCauDung" : "80",
+            "DiemNghe" : "420",
+            "DiemDoc" : "400"
+        }, 
+        {
+            "SoCauDung" : "81",
+            "DiemNghe" : "425",
+            "DiemDoc" : "405"
+        }, 
+        {
+            "SoCauDung" : "82",
+            "DiemNghe" : "430",
+            "DiemDoc" : "405"
+        }, 
+        {
+            "SoCauDung" : "83",
+            "DiemNghe" : "435",
+            "DiemDoc" : "410"
+        }, 
+        {
+            "SoCauDung" : "84",
+            "DiemNghe" : "440",
+            "DiemDoc" : "415"
+        }, 
+        {
+            "SoCauDung" : "85",
+            "DiemNghe" : "450",
+            "DiemDoc" : "420"
+        }, 
+        {
+            "SoCauDung" : "86",
+            "DiemNghe" : "455",
+            "DiemDoc" : "425"
+        }, 
+        {
+            "SoCauDung" : "87",
+            "DiemNghe" : "460",
+            "DiemDoc" : "430"
+        }, 
+        {
+            "SoCauDung" : "88",
+            "DiemNghe" : "470",
+            "DiemDoc" : "435"
+        }, 
+        {
+            "SoCauDung" : "89",
+            "DiemNghe" : "475",
+            "DiemDoc" : "445"
+        }, 
+        {
+            "SoCauDung" : "90",
+            "DiemNghe" : "480",
+            "DiemDoc" : "450"
+        }, 
+        {
+            "SoCauDung" : "91",
+            "DiemNghe" : "485",
+            "DiemDoc" : "455"
+        }, 
+        {
+            "SoCauDung" : "92",
+            "DiemNghe" : "490",
+            "DiemDoc" : "465"
+        }, 
+        {
+            "SoCauDung" : "93",
+            "DiemNghe" : "495",
+            "DiemDoc" : "470"
+        }, 
+        {
+            "SoCauDung" : "94",
+            "DiemNghe" : "495",
+            "DiemDoc" : "480"
+        }, 
+        {
+            "SoCauDung" : "95",
+            "DiemNghe" : "495",
+            "DiemDoc" : "485"
+        }, 
+        {
+            "SoCauDung" : "96",
+            "DiemNghe" : "495",
+            "DiemDoc" : "490"
+        }, 
+        {
+            "SoCauDung" : "97",
+            "DiemNghe" : "495",
+            "DiemDoc" : "495"
+        }, 
+        {
+            "SoCauDung" : "98",
+            "DiemNghe" : "495",
+            "DiemDoc" : "495"
+        }, 
+        {
+            "SoCauDung" : "99",
+            "DiemNghe" : "495",
+            "DiemDoc" : "495"
+        }, 
+        {
+            "SoCauDung" : "100",
+            "DiemNghe" : "495",
+            "DiemDoc" : "495"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+ReactJS: https://www.youtube.com/watch?v=zrdXI6uZuW4&list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd
+Redux: https://www.youtube.com/watch?v=zcpyOwPdIYg&list=PLzrVYRai0riQFEN586LOz3eMv2Rgy6WXS
+React-Router: https://www.youtube.com/watch?v=1LFqfxghAa0&list=PLzrVYRai0riS6mBVG71EEBNm4VtT03y6x
+
+Some thing needed:
+- CS6 syntask
+- Webpack

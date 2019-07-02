@@ -1,0 +1,6 @@
+In order to run the program, Hai need to do something
+- Clone the program
+- Open the program with VS Code( Install NodeJS)
+- Open command line in VS code and run "npm install"
+- Create Database use MongoDB
+- Then open 2 command line and run "webpack -w" and other command line run "node index"
